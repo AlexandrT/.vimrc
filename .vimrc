@@ -17,6 +17,8 @@ Plugin 'thoughtbot/vim-rspec'
 Plugin 'tpope/vim-git'
 Plugin 'pangloss/vim-javascript'
 Plugin 'depuracao/vim-rdoc'
+Plugin 'jimenezrick/vimerl'
+Plugin 'fatih/vim-go'
 call vundle#end() " required
 filetype plugin indent on " required
 syntax enable
